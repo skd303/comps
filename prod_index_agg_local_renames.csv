@@ -1,0 +1,989 @@
+﻿Ticker,Alt_Ticker,Stock Name,year
+A,,Agilent Technologies,2003
+AA,,Alcoa Inc,2003
+AAL,,American Airlines Group,2015
+AAP,,Advance Auto Parts,2015
+AAPL,,Apple Computer,2003
+ABBV,,AbbVie,2013
+ABC,COR,AmerisourceBergen Corp.,2003
+ABI,,Applera Corp-Applied Biosystems Group,2003
+ABK,,Ambac Financial Group,2003
+ABMD,,ABIOMED Inc,2018
+ABS,,Albertson's,2003
+ABT,,Abbott Labs,2003
+ACAS,,American Capital Strategies Ltd,2008
+ACE,CB,ACE Limited,2003
+ACN,,Accenture,2012
+ACS,,Affiliated Computer,2004
+ACT,AGN,Actavis Inc,2013
+ACV,ACV-OLD,Alberto-Culver,2003
+ADBE,,Adobe Systems,2003
+ADCT,ADCT-OLD,ADC Telecommunications,2003
+ADI,,Analog Devices,2003
+ADM,,Archer-Daniels-Midland,2003
+ADP,,Automatic Data Processing Inc.,2003
+ADS,BFH,Alliance Data Systems,2014
+ADSK,,"Autodesk, Inc.",2003
+ADT,,ADT Corp,2013
+AEE,,Ameren Corporation,2003
+AEP,,American Electric Power,2003
+AES,,AES Corp.,2003
+AET,,Aetna Inc. (New),2003
+AFL,,AFLAC Corporation,2003
+AGN,,"Allergan, Inc.",2003
+AHC,HES,Amerada Hess,2003
+AIG,,American Int'l. Group,2003
+AIV,,Apartment Investment & MgmtA,2003
+AIZ,,Assurant Inc,2007
+AJG,,Arthur J. Gallagher & Co.,2016
+AKAM,,Akamai Technologies Inc,2008
+AKS,,AK Steel Holding Corp.,2008
+ALB,,Albemarle Corp,2016
+ALGN,,Align Technology,2017
+ALK,,Alaska Air Group Inc,2016
+ALL,,Allstate Corp.,2003
+ALLE,,Allegion,2014
+ALTR,INTC,Altera Corp.,2003
+ALXN,,Alexion Pharmaceuticals,2012
+AM,AM-OLD,American Greetings Class A,2003
+AMAT,,Applied Materials,2003
+AMCC,,Applied Micro Circuits,2003
+AMCR,,Amcor plc,2019
+AMD,,Advanced Micro Devices,2003
+AME,,Ametek,2014
+AMG,,Affiliated Managers Group Inc,2014
+AMGN,,Amgen,2003
+AMP,,Ameriprise Financial Inc.,2005
+AMR,AAL,AMR Corp.,2003
+AMT,,American Tower Corp.,2008
+AMZN,,Amazon Corp.,2005
+AN,,AutoNation Inc.,2003
+ANDV,,Andeavor,2017
+ANDW,,Andrew Corp.,2003
+ANET,,Arista Networks,2018
+ANF,,Abercrombie & Fitch Co.,2007
+ANR,,Alpha Natural Resources,2011
+ANSS,,ANSYS Inc,2017
+ANTM,,Anthem Inc.,2015
+AOC,,Aon Corp.,2003
+AOL,,AOL Time Warner Inc.,2003
+AON,,Aon Corporation,2010
+AOS,,A.O. Smith Corp,2017
+APA,,Apache Corp.,2003
+APC,,Anadarko Petroleum,2003
+APCC,,American Power Conversion,2003
+APD,,Air Products & Chemicals,2003
+APH,,Amphenol Corp A,2011
+APOL,,Apollo Group,2003
+APTV,,Aptiv Plc,2018
+ARE,,Alexandria Real Estate Equities Inc,2017
+ARG,,Airgas Inc,2011
+ARNC,,Arconic Inc,2017
+ASD,,American Standard,2003
+ASH,,Ashland Inc.,2003
+ASN,,,2004
+ASO,,AmSouth Bancorporation,2003
+AT,,ALLTEL Corp.,2003
+ATH,,"Anthem, Inc.",2003
+ATI,,Allegheny Technologies Inc,2003
+ATO,,Atmos Energy Corp,2019
+ATVI,,Activision Blizzard,2015
+AV,,Avaya Inc.,2003
+AVB,,AvalonBay Communities,2007
+AVGO,,Avago Technologies,2014
+AVP,,Avon Products,2003
+AVY,,Avery Dennison Corp.,2003
+AW,,Allied Waste Industries,2003
+AWE,,AT&T Wireless Services,2003
+AWK,,American Water Works Company Inc,2016
+AXP,,American Express,2003
+AYE,,Allegheny Energy,2003
+AYI,,Acuity Brands Inc,2016
+AZO,,AutoZone Inc.,2003
+BA,,Boeing Company,2003
+BAC,,Bank of America Corp.,2003
+BALL,,Ball,2022
+BAX,,Baxter International Inc.,2003
+BBBY,,Bed Bath & Beyond,2003
+BBT,,BB&T Corporation,2003
+BBWI,,"Bath & Body Works, Inc.",2021
+BBY,,"Best Buy Co., Inc.",2003
+BC,,Brunswick Corp.,2003
+BCC,,Boise Cascade,2003
+BCR,,Bard (C.R.) Inc.,2003
+BDK,,Black & Decker Corp.,2003
+BDX,,"Becton, Dickinson",2003
+BEAM,,Beam Inc.,2012
+BEN,,Franklin Resources,2003
+BF-B,,Brown-Forman Corporation,2015
+BF.B,,Brown-Forman Corp.,2003
+BFB,,Brown-Forman Corporation,2012
+BGEN,,Biogen Inc.,2003
+BHF,,Brighthouse Financial Inc,2017
+BHGE,,"Baker Hughes, a GE Company",2017
+BHI,,Baker Hughes,2003
+BIG,,Big Lots Inc.,2006
+BIIB,,BIOGEN IDEC Inc.,2004
+BIO,,Bio-Rad Laboratories,2020
+BJS,,BJ Services,2003
+BK,,Bank of New York,2003
+BKNG,,Booking Holdings Inc,2018
+BKR,,Baker Hughes Co,2020
+BLI,,"Big Lots, Inc.",2003
+BLK,,Blackrock,2011
+BLL,,Ball Corp.,2003
+BLS,,BellSouth,2003
+BMC,,BMC Software,2003
+BMET,,"Biomet, Inc.",2003
+BMS,,Bemis Company,2003
+BMY,,Bristol-Myers Squibb,2003
+BNI,,Burlington Northern Santa Fe C,2003
+BOL,,Bausch & Lomb,2003
+BR,,Burlington Resources,2003
+BRCM,,Broadcom Corporation,2003
+BRK-B,,Berkshire Hathaway,2015
+BRK.B,,Berkshire Hathaway,2010
+BRL,,Barr Pharmaceuticals Inc.,2006
+BRO,,Brown & Brown,2021
+BSC,,Bear Stearns Cos.,2003
+BSX,,Boston Scientific,2003
+BTU,,Peabody Energy,2006
+BUD,,Anheuser-Busch,2003
+BWA,,BorgWarner,2012
+BXLT,,Baxalta,2015
+BXP,,Boston Properties,2006
+C,,Citigroup Inc.,2003
+CA,,Computer Associates Intl.,2003
+CAG,,"ConAgra Foods, Inc.",2003
+CAH,,"Cardinal Health, Inc.",2003
+CAM,,Cameron International Corp.,2008
+CARR,,Carrier Global,2020
+CAT,,Caterpillar Inc.,2003
+CB,,Chubb Corp.,2003
+CBE,,"Cooper Industries, Ltd.",2003
+CBG,,CB Richard Ellis Group,2006
+CBH,,,2006
+CBOE,,CBOE Holdings,2017
+CBRE,,CBRE Group,2018
+CBS,,CBS Corp.,2006
+CBSS,,,2004
+CC,,Circuit City Group,2003
+CCE,,Coca-Cola Enterprises,2003
+CCI,,Crown Castle International Corp.,2012
+CCL,,Carnival Corp.,2003
+CCU,,Clear Channel Communications,2003
+CD,,Cendant Corporation,2003
+CDAY,,Ceridian,2021
+CDNS,,Cadence Design Systems,2018
+CDW,,CDW,2020
+CE,,Concord EFS Inc.,2003
+CEG,,Constellation Energy Group,2003
+CELG,,Celgene Corp.,2006
+CEPH,,Cephalon Inc,2010
+CERN,,Cerner,2011
+CF,,Charter One Financial,2003
+CFC,,Countrywide Financial Corp.,2003
+CFG,,Citizens Financial Group,2016
+CFN,,Carefusion Corporation,2010
+CHD,,Church & Dwight,2015
+CHIR,,Chiron Corp.,2003
+CHK,,Chesapeake Energy,2006
+CHRW,,C.H. Robinson Worldwide,2007
+CHTR,,Charter Communications,2016
+CI,,CIGNA Corp.,2003
+CIEN,,CIENA Corp.,2003
+CIN,,CINergy Corp.,2003
+CINF,,Cincinnati Financial,2003
+CIT,,CIT Group,2004
+CL,,Colgate-Palmolive,2003
+CLF,,Cliffs Natural Resources,2010
+CLX,,Clorox Co.,2003
+CMA,,Comerica Inc.,2003
+CMCSA,,Comcast Corp.,2003
+CME,,CME Group Inc.,2006
+CMG,,Chipotle Mexican Grill,2011
+CMI,,Cummins Inc.,2004
+CMS,,CMS Energy,2003
+CMVT,,Comverse Technology,2003
+CMX,,,2004
+CNC,,Centene Corporation,2016
+CNP,,CenterPoint Energy,2003
+CNX,,CONSOL Energy Inc.,2006
+COF,,Capital One Financial,2003
+COG,,Cabot Oil & Gas,2008
+COH,,Coach Inc.,2004
+COL,,Rockwell Collins,2003
+COO,,The Cooper Companies,2016
+COP,,ConocoPhillips,2003
+COST,,Costco Co.,2003
+COTY,,"Coty, Inc",2016
+COV,,Covidien Ltd.,2008
+CPB,,Campbell Soup,2003
+CPGX,,Columbia Pipeline Group Inc,2015
+CPN,,Calpine Corp.,2003
+CPRI,,Capri Holdings,2019
+CPRT,,Copart Inc,2018
+CPT,,Camden,2022
+CPWR,,Compuware Corp.,2003
+CR,,Crane Company,2003
+CRL,,Charles River Laboratories,2021
+CRM,,Salesforce.com,2008
+CSC,,Computer Sciences Corp.,2003
+CSCO,,Cisco Systems,2003
+CSRA,,CSRA Inc.,2015
+CSX,,CSX Corp.,2003
+CTAS,,Cintas Corporation,2003
+CTB,,Cooper Tire & Rubber,2003
+CTL,,Century Telephone,2003
+CTLT,,Catalent,2020
+CTRA,,Coterra,2021
+CTSH,,Cognizant Technology Solutions,2006
+CTVA,,Corteva,2019
+CTX,,Centex Corp.,2003
+CTXS,,Citrix Systems,2003
+CUM,,Cummins  Inc.,2003
+CVC,,Cablevision Systems Corp.,2011
+CVG,,Convergys Corp.,2003
+CVH,,Coventry Health Care Inc.,2005
+CVS,,CVS Corp.,2003
+CVX,,ChevronTexaco Corp.,2003
+CXO,,Concho Resources,2016
+CZN,,Citizens Communications,2003
+CZR,,Caesars Entertainment,2021
+D,,Dominion Resources,2003
+DAL,,Delta Air Lines,2003
+DCN,,Dana Corp.,2003
+DD,,Du Pont (E.I.),2003
+DDR,,Developers Diversified Rlty,2007
+DDS,,Dillard Inc.,2003
+DE,,Deere & Co.,2003
+DELL,,Dell Computer,2003
+DF,,Dean Foods,2006
+DFS,,Discover Financial Services,2008
+DG,,Dollar General,2003
+DGX,,Quest Diagnostics,2003
+DHI,,D.R. Horton,2005
+DHR,,Danaher Corp.,2003
+DIS,,Walt Disney Co.,2003
+DISCA,,Discovery Communications,2011
+DISCK,,Discovery Communications-C,2014
+DISH,,Dish Network,2017
+DJ,,Dow Jones & Co.,2003
+DLPH,,Delphi Automotive,2013
+DLR,,Digital Realty Trust,2016
+DLTR,,Dollar Tree,2012
+DLX,,Deluxe Corp.,2003
+DNB,,Dun & Bradstreet,2010
+DNR,,Denbury Resources Inc.,2010
+DNY,,Donnelley (R.R.) & Sons,2003
+DO,,Diamond Offshore Drilling,2010
+DOV,,Dover Corp.,2003
+DOW,,Dow Chemical,2003
+DPH,,Delphi Corporation,2003
+DPS,,Dr Pepper Snapple Group,2008
+DPZ,,Domino's Pizza,2020
+DRE,,Duke Realty Corp,2017
+DRI,,Darden Restaurants,2003
+DTE,,DTE Energy Co.,2003
+DTV,,DIRECTV Group Inc.,2006
+DUK,,Duke Energy,2003
+DV,,"DeVry, Inc.",2010
+DVA,,DaVita Inc.,2008
+DVN,,Devon Energy Corp.,2003
+DWDP,,DowDuPont,2018
+DXC,,DXC Technology,2017
+DXCM,,DexCom,2020
+DYN,,Dynegy Inc. (New) Class A,2003
+EA,,Electronic Arts,2012
+EBAY,,eBay Inc.,2003
+EC,,Engelhard Corp.,2003
+ECL,,Ecolab Inc.,2003
+ED,,Consolidated Edison,2003
+EDS,,Electronic Data Systems,2003
+EFX,,Equifax Inc.,2003
+EIX,,Edison Int'l,2003
+EK,,Eastman Kodak,2003
+EL,,Estee Lauder Cos.,2006
+ELV,,Elevance Health,2022
+EMC,,EMC Corp.,2003
+EMN,,Eastman Chemical,2003
+EMR,,Emerson Electric,2003
+ENDP,,Endo International,2015
+ENPH,,Enphase Energy,2021
+EOG,,EOG Resources,2003
+EOP,,Equity Office Properties,2003
+EP,,El Paso Corp.,2003
+EPAM,,EPAM Systems,2021
+EQ,,Embarq Corporation,2006
+EQIX,,Equinix,2015
+EQR,,Equity Residential,2003
+EQT,,EQT Corporation,2010
+ERTS,,Electronic Arts,2003
+ES,,Eversource Energy,2015
+ESRX,,Express Scripts,2004
+ESS,,Essex Property Trust Inc,2014
+ESV,,ENSCO Int'l,2007
+ET,,,2004
+ETFC,,E-Trade,2006
+ETN,,Eaton Corp.,2003
+ETR,,Entergy Corp.,2003
+ETSY,,Etsy,2020
+EVHC,,Envision Healthcare Corp,2017
+EVRG,,Evergy,2018
+EW,,Edwards Lifesciences,2011
+EXC,,Exelon Corp.,2003
+EXPD,,Expeditors Int'l,2008
+EXPE,,Expedia Inc.,2008
+EXR,,Extra Space Storage,2016
+F,,Ford Motor,2003
+FANG,,Diamondback Energy Inc,2019
+FAST,,Fastenal,2008
+FB,,Facebook,2014
+FBF,,Fleet Boston Financial Group,2003
+FBHS,,Fortune Brands Home & Security,2016
+FCX,,Freeport-McMoran Cp & Gld,2003
+FD,,Federated Dept. Stores,2003
+FDC,,First Data,2003
+FDO,,Family Dollar Stores,2003
+FDS,,FactSet,2022
+FDX,,Federal Express,2003
+FE,,FirstEnergy Corp.,2003
+FFIV,,F5 Networks,2011
+FHN,,First Horizon National,2004
+FII,,Federated Investors Inc.,2003
+FIS,,Fidelity National Information Services,2006
+FISV,,FIserv Inc.,2003
+FITB,,Fifth Third Bancorp,2003
+FL,,Foot Locker Inc,2016
+FLIR,,FLIR Systems,2010
+FLR,,Fluor Corp. (New),2003
+FLS,,Flowserve Corporation,2008
+FLT,,FleetCor Technologies Inc,2018
+FMC,,FMC Corporation,2010
+FNM,,Fannie Mae,2003
+FO,,"Fortune Brands, Inc.",2003
+FON,,Sprint Corp. FON,2003
+FOSL,,"Fossil, Inc.",2012
+FOX,,Twenty-First Century Fox Class B,2015
+FOXA,,21st Century Fox,2013
+FPL,,FPL Group,2003
+FRC,,First Republic Bank,2019
+FRE,,Federal Home Loan Mtg.,2003
+FRT,,Federal Realty Investment Trust,2016
+FRX,,Forest Laboratories,2003
+FSH,,,2004
+FSL.B,,,2004
+FSLR,,First Solar Inc,2010
+FTI,,FMC Technologies Inc.,2010
+FTN,,First Tennessee National,2003
+FTNT,,Fortinet,2018
+FTR,,Frontier Communications,2008
+FTV,,Fortive Corp,2016
+G,,Gillette Co.,2003
+GAS,,NICOR Inc.,2003
+GCI,,Gannett Co.,2003
+GD,,General Dynamics,2003
+GDT,,Guidant Corp.,2003
+GDW,,Golden West Financial,2003
+GE,,General Electric,2003
+GENZ,,Genzyme Corp.,2003
+GGP,,Genl Growth Properties,2008
+GHC,,Graham Holdings Company,2014
+GILD,,Gilead Sciences,2004
+GIS,,General Mills,2003
+GL,,Globe Life Inc.,2019
+GLK,,Great Lakes Chemical,2003
+GLW,,Corning Inc.,2003
+GM,,General Motors,2003
+GMCR,,Keurig Green Mountain,2014
+GME,,GameStop Corp.,2008
+GNRC,,Generac Holdings,2021
+GNW,,Genworth Financial Inc.,2005
+GOOG,,Google Inc.,2006
+GOOGL,,Google Inc.,2014
+GP,,Georgia-Pacific Group,2003
+GPC,,Genuine Parts,2003
+GPN,,Global Payments Inc,2016
+GPS,,Gap (The),2003
+GR,,Goodrich Corporation,2003
+GRMN,,Garmin Ltd.,2013
+GS,,Goldman Sachs Group,2003
+GT,,Goodyear Tire & Rubber,2003
+GTW,,Gateway Inc.,2003
+GWW,,Grainger (W.W.) Inc.,2003
+H,,,2006
+HAL,,Halliburton Co.,2003
+HAR,,Harman Int'l Industries,2006
+HAS,,Hasbro Inc.,2003
+HBAN,,Huntington Bancshares,2003
+HBI,,Hanesbrands Inc,2015
+HCA,,HCA Inc.,2003
+HCBK,,Hudson City Bancorp,2007
+HCN,,Health Care REIT,2010
+HCP,,HCP Inc.,2008
+HCR,,Manor Care Inc.,2003
+HD,,Home Depot,2003
+HDI,,Harley-Davidson,2003
+HES,,Hess Corporation,2006
+HET,,Harrah's Entertainment,2003
+HFC,,HollyFrontier Corp,2018
+HI,,Household International,2003
+HIG,,Hartford Financial Svc.Gp.,2003
+HII,,Huntington Ingalls Industries,2018
+HLT,,Hilton Hotels,2003
+HMA,,Health Management Assoc.,2003
+HNZ,,Heinz (H.J.),2003
+HOG,,Harley-Davidson,2006
+HOLX,,Hologic,2016
+HON,,Honeywell Int'l Inc.,2003
+HOT,,Starwood Hotels & Resorts,2003
+HP,,Helmerich & Payne,2011
+HPC,,"Hercules, Inc.",2003
+HPE,,Hewlett Packard Enterprise,2015
+HPQ,,Hewlett-Packard,2003
+HRB,,Block H&R,2003
+HRC,,HEALTHSOUTH Corp.,2003
+HRL,,Hormel Foods Corp.,2010
+HRS,,Harris Corporation,2008
+HSIC,,Henry Schein,2015
+HSP,,Hospira Inc.,2004
+HST,,Host Hotels & Resorts,2007
+HSY,,Hershey Foods,2003
+HUM,,Humana Inc.,2003
+HWM,,Howmet Aerospace,2020
+IACI,,,2006
+IBM,,International Bus. Machines,2003
+ICE,,IntercontinentalExchange Inc.,2008
+IDXX,,IDEXX Laboratories,2017
+IEX,,IDEX Corporation,2019
+IFF,,International Flav/Frag,2003
+IGT,,International Game Technology,2003
+ILMN,,Illumina Inc,2015
+INCY,,Incyte,2017
+INFO,,IHS Markit Ltd.,2017
+INTC,,Intel Corp.,2003
+INTU,,"Intuit, Inc.",2003
+IP,,International Paper,2003
+IPG,,Interpublic Group,2003
+IPGP,,IPG Photonics Corp.,2018
+IQV,,IQVIA Holdings Inc.,2018
+IR,,Ingersoll-Rand Co. Ltd.,2003
+IRM,,Iron Mountain Incorporated,2010
+ISRG,,Intuitive Surgical Inc.,2008
+IT,,Gartner Inc,2017
+ITT,,"ITT Industries, Inc.",2003
+ITW,,Illinois Tool Works,2003
+IVZ,,Invesco Ltd.,2008
+J,,Jacobs Engineering Group,2020
+JAVA,,Sun Microsystems,2007
+JBHT,,J. B. Hunt Transport Services,2015
+JBL,,Jabil Circuit,2003
+JCI,,Johnson Controls,2003
+JCP,,Penney (J.C.),2003
+JDSU,,JDS Uniphase Corp,2003
+JEC,,Jacobs Engineering Group,2008
+JEF,,Jefferies Financial Group,2018
+JHF,,John Hancock Financial,2003
+JKHY,,Jack Henry & Associates Inc,2019
+JNJ,,Johnson & Johnson,2003
+JNPR,,Juniper Networks,2006
+JNS,,Janus Capital Group,2003
+JNY,,Jones Apparel Group,2003
+JOY,,Joy Global Inc.,2012
+JOYG,,Joy Global Inc.,2011
+JP,,Jefferson-Pilot,2003
+JPM,,J.P. Morgan Chase & Co.,2003
+JWN,,Nordstrom,2003
+K,,Kellogg Co.,2003
+KBH,,KB Home,2003
+KDP,,Keurig Dr Pepper,2022
+KEY,,KeyCorp,2003
+KEYS,,Keysight Technologies,2019
+KFT,,Kraft Foods Inc-A,2007
+KG,,King Pharmaceuticals,2003
+KHC,,Kraft Heinz Co,2015
+KIM,,Kimco Realty,2006
+KLAC,,KLA-Tencor Corp.,2003
+KMB,,Kimberly-Clark,2003
+KMG,,Kerr-McGee,2003
+KMI,,Kinder Morgan,2003
+KMX,,Carmax Inc,2011
+KO,,Coca Cola Co.,2003
+KORS,,Michael Kors,2014
+KR,,Kroger Co.,2003
+KRB,,MBNA Corp.,2003
+KRFT,,Kraft Foods Group,2013
+KRI,,Knight-Ridder Inc.,2003
+KSE,,Keyspan Energy,2003
+KSS,,Kohl's Corp.,2003
+KSU,,Kansas City Southern,2013
+L,,Loews Corp.,2008
+LB,,L Brands Inc.,2014
+LDOS,,Leidos Holdings,2019
+LEG,,Leggett & Platt,2003
+LEH,,Lehman Bros.,2003
+LEN,,Lennar Corp.,2005
+LH,,Laboratory Corp. of America Holding,2004
+LHX,,L3Harris Technologies,2019
+LIFE,,Life Technologies,2010
+LIN,,Linde plc,2019
+LIZ,,"Liz Claiborne, Inc.",2003
+LKQ,,LKQ Corporation,2016
+LLL,,L-3 Communications Holdings,2004
+LLTC,,Linear Technology Corp.,2003
+LLY,,Lilly (Eli) & Co.,2003
+LM,,Legg Mason,2006
+LMT,,Lockheed Martin Corp.,2003
+LNC,,Lincoln National,2003
+LNT,,Alliant Energy Corp,2016
+LO,,Lorillard Inc.,2008
+LOW,,Lowe's Cos.,2003
+LPX,,Louisiana Pacific,2003
+LRCX,,Lam Research,2012
+LSI,,LSI Logic,2003
+LTD,,"Limited Brands, Inc.",2003
+LTR,,Loews Corp.,2003
+LU,,Lucent Technologies,2003
+LUK,,Leucadia National Corp.,2008
+LUMN,,Lumen Technologies,2020
+LUV,,Southwest Airlines,2003
+LVLT,,Level 3 Communications,2014
+LVS,,Las Vegas Sands,2020
+LW,,Lamb Weston Holdings Inc,2019
+LXK,,Lexmark Int'l Inc,2003
+LYB,,LyondellBasell,2013
+LYV,,Live Nation Entertainment,2020
+M,,Macy's Inc.,2007
+MA,,Mastercard Inc.,2008
+MAA,,Mid-America Apartments,2017
+MAC,,Macerich,2013
+MAR,,Marriott Int'l.,2003
+MAS,,Masco Corp.,2003
+MAT,,"Mattel, Inc.",2003
+MAY,,May Dept. Stores,2003
+MBI,,MBIA Inc.,2003
+MCD,,McDonald's Corp.,2003
+MCHP,,Microchip Technology,2007
+MCK,,McKesson Corp. (New),2003
+MCO,,Moody's Corp,2003
+MDLZ,,Mondelez International,2013
+MDP,,Meredith Corp.,2003
+MDR,,McDermott International,2003
+MDT,,Medtronic Inc.,2003
+MEDI,,MedImmune Inc.,2003
+MEE,,Massey Energy Company,2008
+MEL,,Mellon Bank Corp.,2003
+MER,,Merrill Lynch,2003
+MERQ,,Mercury Interactive,2003
+MERQE,,,2005
+MET,,MetLife Inc.,2003
+META,,Meta Platforms,2022
+MFE,,McAfee,2010
+MGM,,MGM Resorts International,2017
+MHFI,,McGraw-Hill,2013
+MHK,,Mohawk Industries,2014
+MHP,,McGraw-Hill,2003
+MHS,,Medco Health Solutions Inc.,2004
+MI,,Marshall & Ilsley Corp.,2003
+MIL,,Millipore Corp.,2003
+MIR,,Mirant Corporation,2003
+MJN,,Mead Johnson,2010
+MKC,,McCormick & Co.,2003
+MKTX,,MarketAxess,2019
+MLM,,Martin Marietta Materials,2014
+MMC,,Marsh & McLennan,2003
+MMI,,Motorola Mobility Holdings Inc.,2011
+MMM,,3M Company,2003
+MNK,,Mallinckrodt plc,2014
+MNST,,Monster Worldwide,2003
+MO,,"Altria Group, Inc.",2003
+MOH,,Molina Healthcare,2022
+MOLX,,Molex Inc.,2003
+MOLXE,,,2004
+MON,,Monsanto Co.,2003
+MOS,,The Mosaic Company,2011
+MOT,,Motorola Inc.,2003
+MPC,,Marathon Petroleum,2012
+MPWR,,Monolithic Power Systems,2021
+MRK,,Merck & Co.,2003
+MRNA,,Moderna,2021
+MRO,,Marathon Oil Corp.,2003
+MS,,Morgan Stanley,2006
+MSCI,,MSCI Inc,2018
+MSFT,,Microsoft Corp.,2003
+MSI,,Motorola Solutions Inc.,2011
+MTB,,M&T Bank Corp.,2004
+MTCH,,Match Group,2021
+MTD,,Mettler Toledo,2016
+MTG,,MGIC Investment,2003
+MTW,,Manitowoc Co.,2008
+MU,,Micron Technology,2003
+MUR,,Murphy Oil,2005
+MWD,,Morgan Stanley,2003
+MWV,,MeadWestvaco Corporation,2003
+MWW,,Monster Worldwide,2010
+MXB,,MSCI,2010
+MXIM,,Maxim Integrated Prod,2003
+MYG,,Maytag Corp.,2003
+MYL,,Mylan Inc.,2004
+NAV,,Navistar International Corp.,2003
+NAVI,,Navient Corp,2014
+NBL,,Noble Energy Inc,2008
+NBR,,Nabors Industries Ltd.,2003
+NCC,,National City Corp.,2003
+NCLH,,Norwegian Cruise Line,2018
+NCR,,NCR Corp.,2003
+NDAQ,,NASDAQ OMX Group,2008
+NDSN,,Nordson,2022
+NE,,Noble Corporation,2003
+NEE,,NextEra Energy Resources,2011
+NEM,,Newmont Mining Corp. (Hldg. Co.),2003
+NFB,,North Fork Bancorporation,2003
+NFLX,,NetFlix Inc.,2011
+NFX,,Newfield Exploration Co,2011
+NI,,NiSource Inc.,2003
+NKE,,NIKE Inc.,2003
+NKTR,,Nektar Therapeutics,2018
+NLOK,,NortonLifeLock,2020
+NLSN,,Nielsen Holdings,2013
+NOC,,Northrop Grumman Corp.,2003
+NOV,,National Oilwell Varco Inc.,2005
+NOVL,,Novell Inc.,2003
+NOW,,ServiceNow,2020
+NRG,,NRG Energy,2011
+NSC,,Norfolk Southern Corp.,2003
+NSM,,National Semiconductor,2003
+NTAP,,Network Appliance,2003
+NTRS,,Northern Trust Corp.,2003
+NU,,Northeast Utilities,2010
+NUE,,Nucor Corp.,2003
+NVDA,,NVIDIA Corp.,2003
+NVLS,,Novellus Systems,2003
+NVR,,NVR Inc,2020
+NWL,,Newell Rubbermaid Co.,2003
+NWS,,News Corp. Class B,2015
+NWS.A,,News Corporation,2004
+NWSA,,News Corporation,2010
+NXPI,,NXP Semiconductors,2021
+NXTL,,Nextel Communications,2003
+NYT,,New York Times Cl. A,2003
+NYX,,NYSE Euronext,2008
+O,,Realty Income Corporation,2015
+ODFL,,Old Dominion Freight Line,2020
+ODP,,Office Depot,2003
+OGN,,Organon & Co.,2021
+OI,,Owens-Illinois Inc,2010
+OKE,,ONEOK,2011
+OMC,,Omnicom Group,2003
+OMX,,,2004
+ON,,ON Semiconductor,2022
+ONE,,Bank One Corp.,2003
+ORCL,,Oracle Corp.,2003
+ORLY,,O'Reilly Automotive,2010
+OTIS,,Otis Worldwide,2020
+OXY,,Occidental Petroleum,2003
+PARA,,Paramount Global,2022
+PAYC,,Paycom,2020
+PAYX,,Paychex Inc.,2003
+PBCT,,People's United Bank,2010
+PBG,,Pepsi Bottling Group,2003
+PBI,,Pitney-Bowes,2003
+PCAR,,PACCAR Inc.,2003
+PCG,,PG&E Corp.,2003
+PCL,,Plum Creek Timber Co.,2003
+PCLN,,Priceline.com Inc,2011
+PCP,,Precision Castparts Corp.,2007
+PCS,,Sprint Corp. PCS,2003
+PD,,Phelps Dodge,2003
+PDCO,,Patterson Cos. Inc.,2005
+PEAK,,Healthpeak Properties,2020
+PEG,,Public Serv. Enterprise Inc.,2003
+PENN,,Penn National Gaming,2021
+PEP,,PepsiCo Inc.,2003
+PETM,,"PetSmart, Inc.",2013
+PFE,,"Pfizer, Inc.",2003
+PFG,,Principal Financial Group,2003
+PG,,Procter & Gamble,2003
+PGL,,Peoples Energy,2003
+PGN,,"Progress Energy, Inc.",2003
+PGR,,Progressive Corp.,2003
+PH,,Parker-Hannifin,2003
+PHA,,Pharmacia Corp,2003
+PHM,,"Pulte Homes, Inc.",2003
+PKG,,Packaging Corporation of America,2017
+PKI,,PerkinElmer,2003
+PLD,,ProLogis,2003
+PLL,,Pall Corp.,2003
+PM,,Philip Morris International,2008
+PMCS,,PMC-Sierra Inc.,2003
+PMTC,,Parametric Technology,2003
+PMTCD,,,2006
+PNC,,PNC Bank Corp.,2003
+PNR,,Pentair Ltd.,2013
+PNW,,Pinnacle West Capital,2003
+POM,,Pepco Holdings Inc.,2008
+POOL,,Pool Corporation,2020
+PPG,,PPG Industries,2003
+PPL,,PPL Corp.,2003
+PRGO,,Perrigo,2012
+PRU,,Prudential Financial,2003
+PSA,,Public Storage,2005
+PSFT,,PeopleSoft Inc.,2003
+PSX,,Phillips 66,2012
+PTC,,PTC Inc,2021
+PTV,,Pactiv Corp.,2003
+PVH,,PVH Corp.,2013
+PVN,,Providian Financial Corp.,2003
+PWER,,Power-One Inc.,2003
+PWR,,Quanta Services Inc.,2010
+PX,,"Praxair, Inc.",2003
+PXD,,Pioneer Natural Resources,2008
+PYPL,,PayPal,2015
+Q,,Qwest Communications Int,2003
+QCOM,,QUALCOMM Inc.,2003
+QEP,,QEP Resources,2011
+QLGC,,QLogic Corp.,2003
+QRVO,,Qorvo,2015
+QTRN,,Quintiles Transnational,2003
+R,,Ryder System,2003
+RAI,,Reynolds American Inc.,2004
+RBK,,Reebok International,2003
+RCL,,Royal Caribbean Cruises Ltd,2015
+RDC,,Rowan Cos.,2003
+RE,,Everest Re Group Ltd,2017
+REG,,Regency Centers Corporation,2017
+REGN,,Regeneron,2013
+RF,,Regions Financial Corp.,2003
+RHI,,Robert Half International,2003
+RHT,,Red Hat Inc.,2010
+RIG,,Transocean Inc.,2003
+RJF,,Raymond James Financial Inc.,2017
+RJR,,RJ Reynolds Tobacco,2003
+RKY,,Coors (Adolph),2003
+RL,,Polo Ralph Lauren Corp.,2007
+RMD,,ResMed,2017
+ROH,,Rohm & Haas,2003
+ROK,,"Rockwell Automation, Inc.",2003
+ROL,,Rollins Inc.,2018
+ROP,,Roper Industries,2010
+ROST,,Ross Stores Inc.,2010
+RRC,,Range Resources Corp.,2008
+RRD,,Donnelley (R.R.) & Sons,2004
+RSG,,Republic Services Inc,2010
+RSH,,RadioShack Corp,2003
+RTN,,Raytheon Co. (New),2003
+RTX,,Raytheon Co.,2020
+RX,,IMS Health Inc.,2003
+S,,"Sears, Roebuck & Co.",2003
+SAF,,,2006
+SAFC,,SAFECO Corp.,2003
+SAI,,SAIC,2010
+SANM,,Sanmina-SCI Corp.,2003
+SBAC,,SBA Communications,2018
+SBC,,SBC Communications Inc.,2003
+SBL,,Symbol Technologies,2003
+SBNY,,Signature Bank,2022
+SBUX,,Starbucks Corp.,2003
+SCG,,SCANA Corp,2010
+SCH,,Charles Schwab,2003
+SCHW,,Charles Schwab,2006
+SDS,,SunGard Data Systems,2003
+SE,,Spectra Energy Corp.,2007
+SEBL,,Siebel  Systems Inc,2003
+SEDG,,SolarEdge,2022
+SEE,,Sealed Air Corp.(New),2003
+SFA,,Scientific-Atlanta,2003
+SGP,,Schering-Plough,2003
+SHLD,,Sears Holdings Corporation,2005
+SHW,,Sherwin-Williams,2003
+SIAL,,Sigma-Aldrich,2003
+SIG,,Signet Jewelers,2015
+SII,,Smith International,2006
+SIVB,,SVB Financial,2018
+SJM,,Smucker (J.M.) (New),2008
+SLB,,Schlumberger Ltd.,2003
+SLE,,Sara Lee Corp.,2003
+SLG,,SL Green Realty,2015
+SLM,,SLM Corporation,2003
+SLR,,Solectron,2003
+SNA,,Snap-On Inc.,2003
+SNDK,,SanDisk Corporation,2006
+SNI,,Scripps Networks Interactive Inc.,2008
+SNPS,,Synopsys Inc.,2017
+SNV,,Synovus Financial,2003
+SO,,Southern Co.,2003
+SOTR,,SouthTrust Corp.,2003
+SOV,,Sovereign Bancorp,2004
+SPC,,St. Paul Cos.,2003
+SPG,,"Simon Property Group, Inc",2003
+SPGI,,"S&P Global, Inc.",2016
+SPLS,,Staples Inc.,2003
+SRCL,,Stericycle Inc,2010
+SRE,,Sempra Energy,2003
+SSP,,,2006
+STA,,,2004
+STE,,STERIS plc,2020
+STI,,SunTrust Banks,2003
+STJ,,St Jude Medical,2003
+STR,,Questar Corp.,2006
+STT,,State Street Corp.,2003
+STX,,Seagate Technology,2012
+STZ,,Constellation Brands,2005
+SUN,,"Sunoco., Inc.",2003
+SUNW,,Sun Microsystems,2003
+SVU,,Supervalu Inc.,2003
+SWK,,Stanley Works,2003
+SWKS,,Skyworks Solutions,2015
+SWN,,Southwestern Energy,2008
+SWY,,Safeway Inc.,2003
+SYF,,Synchrony Financial,2015
+SYK,,Stryker Corp.,2003
+SYMC,,Symantec Corp.,2003
+SYY,,Sysco Corp.,2003
+T,,AT&T Corp.(New),2003
+TAP,,Molson Coors Brewing Company,2005
+TAP.B,,Travelers Property Casualty Corp.,2003
+TDC,,Teradata Corp.,2008
+TDG,,TransDigm Group,2016
+TDY,,Teledyne Technologies,2020
+TE,,TECO Energy,2003
+TECH,,Bio-Techne,2021
+TEG,,Integrys Energy Group Inc.,2007
+TEK,,Tektronix Inc.,2003
+TEL,,Tyco Electronics Ltd.,2008
+TER,,Teradyne Inc.,2003
+TEX,,,2006
+TFC,,Truist Financial,2020
+TFX,,Teleflex Inc,2019
+TGNA,,Tegna,2015
+TGT,,Target Corp.,2003
+THC,,Tenet Healthcare Corp.,2003
+TIE,,Titanium Metals Corp,2008
+TIF,,Tiffany & Co.,2003
+TIN,,Temple-Inland,2003
+TJX,,TJX Companies Inc.,2003
+TLAB,,"Tellabs, Inc.",2003
+TMK,,Torchmark Corp.,2003
+TMO,,Thermo Electron,2003
+TMPW,,TMP Worldwide,2003
+TMUS,,T-Mobile US,2019
+TNB,,Thomas & Betts,2003
+TOY,,"Toys R Us, Inc.",2003
+TPR,,"Tapestry, Inc.",2018
+TRB,,Tribune Co.,2003
+TRIP,,TripAdvisor,2012
+TRMB,,Trimble Inc.,2021
+TROW,,T. Rowe Price Group,2003
+TRV,,The Travelers Companies Inc.,2007
+TSCO,,Tractor Supply Company,2014
+TSG,,Sabre Holding Corp.,2003
+TSLA,,"Tesla, Inc.",2021
+TSN,,Tyson Foods,2005
+TSO,,Tesoro Petroleum Co.,2008
+TSS,,Total System Services,2008
+TT,,Trane Technologies plc,2020
+TTWO,,Take-Two Interactive,2018
+TUP,,Tupperware Corp.,2003
+TWC,,Time Warner Cable Inc.,2010
+TWTR,,"Twitter, Inc.",2018
+TWX,,Time Warner Inc.,2004
+TXN,,Texas Instruments,2003
+TXT,,Textron Inc.,2003
+TXU,,TXU Corp.,2003
+TYC,,Tyco International,2003
+TYL,,Tyler Technologies,2020
+UA,,Under Armour,2014
+UA.C,,Under Armour,2016
+UAA,,Under Armour,2017
+UAL,,United Continental Holdings,2015
+UCL,,Unocal Corp.,2003
+UDR,,UDR Inc,2016
+UHS,,"Universal Health Services, Inc.",2014
+UIS,,Unisys Corp.,2003
+ULTA,,Ulta Salon Cosmetics & Fragrance Inc,2016
+UNH,,United Health Group Inc.,2003
+UNM,,UNUM Corp.,2003
+UNP,,Union Pacific,2003
+UPC,,Union Planters Corporation,2003
+UPS,,United Parcel Service,2003
+URBN,,Urban Outfitters,2011
+URI,,"United Rentals, Inc.",2014
+USB,,U.S. Bancorp,2003
+UST,,UST Inc.,2003
+UTX,,United Technologies,2003
+UVN,,Univision Communications,2003
+V,,Visa,2010
+VAR,,Varian Medical Systems,2007
+VC,,Visteon Corp.,2003
+VFC,,V.F. Corp.,2003
+VIA.B,,Viacom Inc.,2003
+VIAB,,Viacom Inc.,2011
+VIAb,,Viacom Inc.,2010
+VIAC,,ViacomCBS,2020
+VICI,,Vici Properties,2022
+VLO,,Valero Energy,2004
+VMC,,Vulcan Materials,2003
+VNO,,Vornado Realty Trust,2005
+VNT,,Vontier,2020
+VRSK,,Verisk Analytics,2015
+VRSN,,Verisign Inc.,2006
+VRTS,,Veritas Software,2003
+VRTX,,Vertex Pharmaceuticals Inc,2014
+VTR,,Ventas Inc,2010
+VTRS,,Viatris,2020
+VZ,,Verizon Communications,2003
+WAB,,Wabtec Corporation,2019
+WAG,,Walgreen Co.,2003
+WAT,,Waters Corporation,2003
+WB,,Wachovia Corp. (New),2003
+WBA,,Walgreens Boots Alliance,2015
+WBD,,Warner Bros. Discovery,2022
+WCG,,WellCare,2018
+WDC,,Western Digital,2010
+WEC,,Wisconsin Energy Corporation,2008
+WELL,,Welltower Inc.,2018
+WEN,,Wendy's International,2003
+WFC,,Wells Fargo,2003
+WFM,,Whole Foods Market,2011
+WFMI,,Whole Foods Market,2006
+WFR,,MEMC Electronic Materials,2008
+WFT,,Weatherford International Ltd.,2005
+WHR,,Whirlpool Corp.,2003
+WIN,,Winn-Dixie,2003
+WLP,,WellPoint Health Networks,2003
+WLTW,,Willis Towers Watson,2016
+WM,,Washington Mutual,2003
+WMB,,Williams Cos.,2003
+WMI,,Waste Management Inc.,2003
+WMT,,Wal-Mart Stores,2003
+WOR,,Worthington Ind.,2003
+WPI,,Watson Pharmaceuticals,2003
+WPO,,Washington Post,2008
+WPX,,"WPX Energy, Inc.",2012
+WRB,,W. R. Berkley Corporation,2020
+WRK,,Westrock Co,2015
+WST,,West Pharmaceutical Services,2020
+WTW,,Willis Towers Watson,2022
+WU,,Western Union Co,2006
+WWY,,Wrigley (Wm) Jr.,2003
+WY,,Weyerhaeuser Corp.,2003
+WYE,,Wyeth,2003
+WYN,,Wyndham Worldwide,2006
+WYNN,,Wynn Resorts Ltd,2010
+X,,United States Steel Corp.,2003
+XEC,,Cimarex Energy,2014
+XEL,,Xcel Energy Inc,2003
+XL,,XL Capital,2003
+XLNX,,"Xilinx, Inc",2003
+XOM,,Exxon Mobil Corp.,2003
+XRAY,,Dentsply Intl,2010
+XRX,,Xerox Corp.,2003
+XTO,,XTO Energy Inc.,2004
+XYL,,Xylem Inc.,2011
+YHOO,,Yahoo Inc.,2003
+YUM,,"Yum! Brands, Inc",2003
+ZBH,,Zimmer Biomet Holdings,2015
+ZBRA,,Zebra Technologies,2020
+ZION,,Zions Bancorp,2003
+ZMH,,Zimmer Holdings,2003
+ZTS,,Zoetis,2013
